@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1747476435174,1077,HTTP Request,200,OK,Thread Group 1-2,text,true,,5092,411,10,10,https://the-internet.herokuapp.com/login,877,0,667
+1747476435174,877,HTTP Request-0,303,See Other,Thread Group 1-2,text,true,,1412,278,10,10,https://the-internet.herokuapp.com/authenticate,877,0,667
+1747476436051,200,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,3680,133,10,10,https://the-internet.herokuapp.com/login,200,0,0
+1747476435274,1050,HTTP Request,200,OK,Thread Group 1-3,text,true,,5092,411,9,9,https://the-internet.herokuapp.com/login,833,0,625
+1747476435274,833,HTTP Request-0,303,See Other,Thread Group 1-3,text,true,,1412,278,9,9,https://the-internet.herokuapp.com/authenticate,833,0,625
+1747476436108,216,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,3680,133,9,9,https://the-internet.herokuapp.com/login,216,0,0
+1747476435086,1248,HTTP Request,200,OK,Thread Group 1-1,text,true,,5092,411,8,8,https://the-internet.herokuapp.com/login,1021,0,801
+1747476435086,1021,HTTP Request-0,303,See Other,Thread Group 1-1,text,true,,1412,278,8,8,https://the-internet.herokuapp.com/authenticate,1021,0,801
+1747476436108,226,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,3680,133,8,8,https://the-internet.herokuapp.com/login,226,0,0
+1747476435477,1027,HTTP Request,200,OK,Thread Group 1-5,text,true,,5096,411,7,7,https://the-internet.herokuapp.com/login,827,0,620
+1747476435477,827,HTTP Request-0,303,See Other,Thread Group 1-5,text,true,,1412,278,7,7,https://the-internet.herokuapp.com/authenticate,827,0,620
+1747476436305,199,HTTP Request-1,200,OK,Thread Group 1-5,text,true,,3684,133,7,7,https://the-internet.herokuapp.com/login,199,0,0
+1747476435577,1067,HTTP Request,200,OK,Thread Group 1-6,text,true,,5096,411,6,6,https://the-internet.herokuapp.com/login,861,0,646
+1747476435577,861,HTTP Request-0,303,See Other,Thread Group 1-6,text,true,,1412,278,6,6,https://the-internet.herokuapp.com/authenticate,861,0,646
+1747476436438,206,HTTP Request-1,200,OK,Thread Group 1-6,text,true,,3684,133,6,6,https://the-internet.herokuapp.com/login,206,0,0
+1747476435776,997,HTTP Request,200,OK,Thread Group 1-8,text,true,,5100,411,5,5,https://the-internet.herokuapp.com/login,799,0,598
+1747476435776,799,HTTP Request-0,303,See Other,Thread Group 1-8,text,true,,1416,278,5,5,https://the-internet.herokuapp.com/authenticate,799,0,598
+1747476436576,197,HTTP Request-1,200,OK,Thread Group 1-8,text,true,,3684,133,5,5,https://the-internet.herokuapp.com/login,197,0,0
+1747476435877,1041,HTTP Request,200,OK,Thread Group 1-9,text,true,,5100,411,4,4,https://the-internet.herokuapp.com/login,837,0,630
+1747476435877,837,HTTP Request-0,303,See Other,Thread Group 1-9,text,true,,1416,278,4,4,https://the-internet.herokuapp.com/authenticate,837,0,630
+1747476436715,203,HTTP Request-1,200,OK,Thread Group 1-9,text,true,,3684,133,4,4,https://the-internet.herokuapp.com/login,203,0,0
+1747476435976,1031,HTTP Request,200,OK,Thread Group 1-10,text,true,,5100,411,3,3,https://the-internet.herokuapp.com/login,823,0,617
+1747476435976,823,HTTP Request-0,303,See Other,Thread Group 1-10,text,true,,1416,278,3,3,https://the-internet.herokuapp.com/authenticate,823,0,617
+1747476436799,208,HTTP Request-1,200,OK,Thread Group 1-10,text,true,,3684,133,3,3,https://the-internet.herokuapp.com/login,208,0,0
+1747476435677,1704,HTTP Request,200,OK,Thread Group 1-7,text,true,,5096,411,2,2,https://the-internet.herokuapp.com/login,807,0,609
+1747476435677,807,HTTP Request-0,303,See Other,Thread Group 1-7,text,true,,1412,278,2,2,https://the-internet.herokuapp.com/authenticate,807,0,609
+1747476436484,897,HTTP Request-1,200,OK,Thread Group 1-7,text,true,,3684,133,2,2,https://the-internet.herokuapp.com/login,897,0,0
+1747476435377,2227,HTTP Request,200,OK,Thread Group 1-4,text,true,,5092,411,1,1,https://the-internet.herokuapp.com/login,2028,0,1817
+1747476435377,2028,HTTP Request-0,303,See Other,Thread Group 1-4,text,true,,1416,278,1,1,https://the-internet.herokuapp.com/authenticate,2028,0,1817
+1747476437406,198,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,3676,133,1,1,https://the-internet.herokuapp.com/login,198,0,0
